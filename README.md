@@ -14,7 +14,7 @@ For further information on locust, take a look at https://locust.io/
 
 This project is build with `python 3.8.5`
 
-It is recommended to use a python virtual environment to run python projects. Use this to set it up by following this: https://github.com/pyenv/pyenv-virtualenv
+I recommended to use a python virtual environment to run my python project. Use this to set it up by following this: https://github.com/pyenv/pyenv-virtualenv
 
 Once your python environment is setup, you need to install the required packages by running
 
